@@ -1,0 +1,42 @@
+html {
+	background:#fff;
+  font:100 80% helvetica,arial,verdana,sans-serif;
+  color:#494949;
+  margin:0;
+  padding:1em;
+}
+div{
+  float:left;width:100%;
+}
+form{
+  float:left;width:auto;
+}
+fieldset{
+  float:left;width:auto;padding:0.5em;border-color:#f0f;outline:none;
+}
+div#online_status{
+  font-size:0.8em;
+  color:#999;
+  padding:0 0 1em 0;
+}
+div.form_row{
+  width:100%;
+  padding:0.25em 0;
+}
+div.form_row label,div.form_row textarea{
+  float:left;
+  clear:both;
+}
+div#output{
+  padding:0.5em;
+  border:1px solid #999;
+}
+div#google_map{
+  margin:2em 0;
+  width:800px;
+  height:600px;
+}
+div.website_link{
+  padding:1em 0 0 0;
+}
+
